@@ -1,1 +1,1 @@
-DATABASE_NAME = "ineuron"
+DATABASE_NAME = "sensor-fault"
